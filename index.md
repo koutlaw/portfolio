@@ -1,4 +1,4 @@
----
-title: Welcome to my blog
----
+
+**Kyle Outlaw**
+UX/UI Designer Exploring AI and Generative Art
 
