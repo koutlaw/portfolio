@@ -12,4 +12,4 @@ UX/UI Designer exploring AI and generative art
 
 ![++++desperad0_An_artist_installation_with_purple_smoke_and_TV_monit_709962e3-512c-4b03-94e8-07fb8b226f09](https://user-images.githubusercontent.com/3966741/202865674-7382dce8-69ed-4123-b3d8-6e7aacde6ba1.png)
 <P>
-**Nonfuntional Requirements** Artist installation concept using Midjourney. 
+  <b>Nonfuntional Requirements</b> Artist installation concept using Midjourney. 
